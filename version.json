@@ -1,5 +1,5 @@
 {
-    "version": "1.1.1",
-    "url": "https://github.com/Spark-NV/Lumina/releases/download/v1.1.1/Lumina.apk",
-    "notes": "Added:\n - Added fallback for filters being too strict"
+    "version": "2.0",
+    "url": "https://github.com/Spark-NV/Lumina/releases/download/v2.0/Lumina.apk",
+    "notes": "Added:\n - Trying to fix a few things."
 }
