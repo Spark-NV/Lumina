@@ -1,3 +1,7 @@
+NOTE: i have quit working on this as i lost interest in trying to fully fix the new episode fetching logic and metadata grabbing. if anyone happens to find this later do not download 2.0 it was a failed apk.
+
+
+
 # Lumina - Media Streamer & Library Manager 🎬
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.0%2B-blue.svg)](https://flutter.dev)
